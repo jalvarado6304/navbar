@@ -1,0 +1,7 @@
+.fixedNav { background-color: blue; height: 100px;
+top:0; position:fixed; width:100%;}
+.section1 { background-color: green; height: 1000px; }
+.section2 { background-color: pink; height: 1000px; }
+.section3 { background-color: red; height: 1000px; }
+.section4 { background-color: #bc5; height: 1000px; }
+p { text-align: center; }
